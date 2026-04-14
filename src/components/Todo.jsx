@@ -46,6 +46,8 @@ const Todo = () => {
           </li>
         ))}
       </ul>
+      {todos.length === 0 && 
+      <p>Nothing to do, GOOD JOB!!</p>}
     </div>
   );
 };
