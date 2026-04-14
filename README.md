@@ -1,5 +1,10 @@
 # Todo-List
 
+Inorder to Run the axios and dev server : 
+Run these both in different terminals:
+npm start dev
+npm run dev
+---
 Created Using react redux and toolkit
 
 implemented the concepts of store and reducers using configurestore and createSlices
